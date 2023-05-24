@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: user/app:civil_site
+          tags: user/app:latest
