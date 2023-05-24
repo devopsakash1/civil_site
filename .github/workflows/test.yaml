@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: user/civil_site
+          tags: devopsakash1/civil_site
